@@ -1,14 +1,14 @@
-**Kate Pollock**
+## Kate Pollock
 
-**December 4, 2021**
+## December 4, 2021
 
-**Foundations of Programming: Python**
+## Foundations of Programming: Python
 
-**Assignment08**
+## Assignment08 
 
-**GitHubURL \&lt;** [https://github.com/katepollock/IntroToProg-Python-Mod08](https://github.com/katepollock/IntroToProg-Python-Mod08) **\&gt;**
+## GitHubURL ** [https://github.com/katepollock/IntroToProg-Python-Mod08](https://github.com/katepollock/IntroToProg-Python-Mod08) **
 
-# **Classes**
+#Classes
 
 #
 
